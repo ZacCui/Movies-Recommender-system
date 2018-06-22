@@ -1,0 +1,11 @@
+result for 
+hidden layer = num_feature / 3
+activation function = relu
+
+
+./ml-100k/u1.base loss: 0.931771239471  |  ./ml-100k/u1.test loss: 0.999118833444
+./ml-100k/u2.base loss: 0.940282446546  |  ./ml-100k/u2.test loss: 0.97674377306
+./ml-100k/u3.base loss: 0.945248492022  |  ./ml-100k/u3.test loss: 0.96562711178
+./ml-100k/u4.base loss: 0.933636659417  |  ./ml-100k/u4.test loss: 0.962095427674
+./ml-100k/u5.base loss: 0.98051564027  |  ./ml-100k/u5.test loss: 0.985334830505
+overall train loss: 0.946290895545   overall test loss: 0.977783995293

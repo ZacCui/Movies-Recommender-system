@@ -1,0 +1,10 @@
+result for 
+hidden layer = num_feature / 3
+activation function = sigmoid
+
+./ml-100k/u1.base loss: 0.967891575889  |  ./ml-100k/u1.test loss: 1.00628110786
+./ml-100k/u2.base loss: 0.971193051101  |  ./ml-100k/u2.test loss: 0.988452159691
+./ml-100k/u3.base loss: 0.973629314391  |  ./ml-100k/u3.test loss: 0.977913643203
+./ml-100k/u4.base loss: 0.975234502965  |  ./ml-100k/u4.test loss: 0.974694571085
+./ml-100k/u5.base loss: 0.972211998533  |  ./ml-100k/u5.test loss: 0.979235026446
+overall train loss: 0.972032088576   overall test loss: 0.985315301658

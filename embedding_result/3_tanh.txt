@@ -1,0 +1,12 @@
+Best result we get in this model !!
+
+result for 
+hidden layer = num_feature / 3
+activation function = tanh
+
+./ml-100k/u1.base loss: 0.8546851125798821  |  ./ml-100k/u1.test loss: 0.9364733441916494
+./ml-100k/u2.base loss: 0.8590615660791343  |  ./ml-100k/u2.test loss: 0.9321649421425686
+./ml-100k/u3.base loss: 0.8585821347598394  |  ./ml-100k/u3.test loss: 0.9264711106298306
+./ml-100k/u4.base loss: 0.8543594568039157  |  ./ml-100k/u4.test loss: 0.9199227530149836
+./ml-100k/u5.base loss: 0.8650662317284067  |  ./ml-100k/u5.test loss: 0.9237174264906073
+overall train loss: 0.8583509003902356   overall test loss: 0.9277499152939278
